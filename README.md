@@ -1,37 +1,43 @@
-# Mohammedhasnaine
+# Mohammed Hasnaine
 
-Welcome to my GitHub profile repository!
-
-## About Me
-
-This repository contains information about my projects, skills, and contributions to the open-source community.
-
-## 📋 Table of Contents
-
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
-
-## 🚀 Projects
-
-Add your project descriptions here:
-- **Project 1**: Brief description
-- **Project 2**: Brief description
-- **Project 3**: Brief description
-
-## 💻 Skills
-
-- Programming Languages: [Add your languages]
-- Frameworks & Tools: [Add your tools]
-- Other Skills: [Add other skills]
-
-## 📫 Contact
-
-- GitHub: [Mohammedhasnaine](https://github.com/Mohammedhasnaine)
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+AI & Machine Learning Enthusiast passionate about building real-world AI systems using Machine Learning, Deep Learning, Data Analytics, and Business Intelligence.
 
 ---
 
-**Last updated**: 2026-05-19
+## Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- Data Analysis
+- Business Intelligence
+- Flask
+- Docker
+
+---
+
+## Featured Projects
+
+- AI-Driven ECG Arrhythmia Detection System
+- Online Course Completion Prediction
+- Startup Success Prediction
+- Customer Churn Prediction
+- Superstore Sales Dashboard
+
+---
+
+## Internship
+
+AI/ML Intern at Prinston Smart Engineers
+
+Worked on Startup Success Prediction project involving predictive analytics, machine learning workflows, and business data analysis.
+
+---
+
+## Contact
+
+- LinkedIn
+- GitHub
+- Portfolio Website (Coming Soon)
